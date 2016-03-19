@@ -1,0 +1,3 @@
+[submodule "BaiduIFE"]
+	path = BaiduIFE
+	url = https://github.com/starsharp06sharp/BaiduIFE.git
